@@ -1,9 +1,4 @@
-# Git-Use
-This is the process to use Github by Ubuntu 19.04 in command line(i.e Terminal) 
 
-
-
-# This is the process to use git from command line that's Ubuntu 19.04 Terminal
 
 1. sudo apt-get install git
 
