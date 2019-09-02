@@ -30,7 +30,9 @@ This is the process to use Github by Ubuntu 19.04 in command line(i.e Terminal)
 12. Do some changes in DS directory....
 
 	1.) gedit abc.cpp
+
 	2.) do some coding like printing of "HELLO WORLD!"
+
 	3.) save the file abc.cpp 
 
 13. git status
@@ -44,6 +46,7 @@ This is the process to use Github by Ubuntu 19.04 in command line(i.e Terminal)
 16. git commit -m "committed message" abc.cpp
 
 	1.) git commit -a (To commit all changes without message)
+
 	1.) git commit -a -m "Change titles and styling on homepage" (To commit all changes with message)
 	
 17. git remote -v
@@ -55,6 +58,7 @@ This is the process to use Github by Ubuntu 19.04 in command line(i.e Terminal)
 20. git push -u origin master --force
 	
 	1.) Provide user name....
+
 	2.) Provide user password....
 
 21. git remote add origin master "https://github.com/RadheTians/django.git"
