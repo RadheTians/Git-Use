@@ -65,4 +65,9 @@ This is the process to use Github by Ubuntu 19.04 in command line(i.e Terminal)
 
 22. git remote add origin master "https://github.com/RadheTians/Data-Structure.git"
 
+23. Create a new branch name called "issue"
+	
+	1.) git checkout -b issue 
+
+
 
